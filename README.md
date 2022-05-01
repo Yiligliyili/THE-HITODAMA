@@ -1,2 +1,2 @@
-# THE-HITODAMA
-uqw funcine porfabor
+# HITODAMAjogo
+Jogo Hitodama
